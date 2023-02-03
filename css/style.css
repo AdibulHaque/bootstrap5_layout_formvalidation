@@ -1,0 +1,12 @@
+
+.navbar a img{
+  margin-bottom: 5px;
+  width: 75px;
+  
+
+}
+
+
+.navbar-expand-sm .navbar-nav a:hover{
+  color: green;
+}
